@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+reportlab
+imageio
+moviepy
+requests
+numpy
